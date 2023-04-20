@@ -47,7 +47,7 @@ public class BankAccount {
             System.out.println("B. Deposit");
             System.out.println("C. Withdraw");
             System.out.println("D. Previous transaction");
-            System.out.println("E. Exit. Thank you! ");
+            System.out.println("E. Exit. Thank you");
 
             do {
                 System.out.print("Enter an option: ");
