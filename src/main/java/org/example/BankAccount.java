@@ -47,7 +47,7 @@ public class BankAccount {
             System.out.println("B. Deposit");
             System.out.println("C. Withdraw");
             System.out.println("D. Previous transaction");
-            System.out.println("E. Exit");
+            System.out.println("E. Exit. Thank you! ");
 
             do {
                 System.out.print("Enter an option: ");
@@ -91,7 +91,7 @@ public class BankAccount {
             } while (option != 'E');
             System.out.println("Thank you for using our services");
 
-            //new
+
 
         }
     }
